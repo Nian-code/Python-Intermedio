@@ -1,2 +1,2 @@
-# pythonintermedio
+# Python Intermedio
 Clases curso python
