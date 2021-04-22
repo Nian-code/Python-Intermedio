@@ -1,0 +1,10 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": true,
+    "python.analysis.cacheFolderPath": "WebScraping La republica/venv/lib/python3.8/site-packages/lxml",
+    "python.analysis.disabled": [
+        "lxml"
+    ],
+    "python.pythonPath": "/usr/bin/python3"
+}
